@@ -20,6 +20,10 @@ jQuery(function ($) {
 		setTimeout(function () {
 			clickBusy = false;
 		}, 1000);
+		if (network === 'print' || shareurl === '#') {
+			window.print();
+			return;
+		}
 
 		window.open(
 			shareurl,

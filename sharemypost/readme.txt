@@ -2,8 +2,8 @@
 Contributors: softaculous
 Tags: social-share, share-buttons, floating-bar, social-media, utm-tracking
 Requires at least: 5.0
-Tested up to: 7.0
-Stable tag: 1.0.5
+Tested up to: 7.1
+Stable tag: 1.0.6
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -112,16 +112,16 @@ Yes. The Pro version offers GA4 integration and UTM tracking to monitor share ac
 == Screenshots ==
 
 1. Inline Share Buttons Settings
-2. Ask AI
-3. Custom Network
-4. Click to X/Tweet
-5. Google Analytics
 
 == Start Using ShareMyPost ==
 
 Install ShareMyPost today to add beautiful social sharing buttons to your WordPress site and make it easy for visitors to share your content.
 
 == Changelog ==
+
+= 1.0.6 =
+* [Task] Brand asset updated.
+* [Task] Tested with WordPress 7.1.
 
 = 1.0.5 =
 
