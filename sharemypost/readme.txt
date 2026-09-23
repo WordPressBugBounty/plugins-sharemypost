@@ -3,7 +3,7 @@ Contributors: softaculous
 Tags: social-share, share-buttons, floating-bar, social-media, utm-tracking
 Requires at least: 5.0
 Tested up to: 7.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -119,7 +119,12 @@ Install ShareMyPost today to add beautiful social sharing buttons to your WordPr
 
 == Changelog ==
 
+= 1.0.7 = 
+
+* [Task] Improved security checks for plugin updates by verifying plugin signatures before upgrading.
+
 = 1.0.6 =
+
 * [Task] Brand asset updated.
 * [Task] Tested with WordPress 7.1.
 

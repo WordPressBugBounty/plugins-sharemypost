@@ -3,7 +3,7 @@
 Plugin Name: ShareMyPost
 Plugin URI: https://sharemypost.net
 Description: A lightweight WordPress social sharing plugin with inline share bars and advanced customization.
-Version: 1.0.6
+Version: 1.0.7
 Author: Softaculous Team
 Author URI: https://softaculous.com/
 Text Domain: sharemypost
@@ -21,7 +21,7 @@ if(!function_exists('add_action')){
 }
 
 // SHAREMYPOST
-define('SHAREMYPOST_VERSION', '1.0.6');
+define('SHAREMYPOST_VERSION', '1.0.7');
 define('SHAREMYPOST_FILE', __FILE__);
 define('SHAREMYPOST_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('SHAREMYPOST_PLUGIN_URL', plugin_dir_url(__FILE__));
